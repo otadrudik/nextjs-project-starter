@@ -5,6 +5,7 @@ const externalRoutes = {
 const routes = {
   index: '/',
   about: '/about',
+  planets: '/planets',
 }
 
 export { externalRoutes, routes }
